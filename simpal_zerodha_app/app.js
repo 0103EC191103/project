@@ -1,1 +1,1 @@
-console.log("this is add for fun");
+console.log("this is add for larning purpose");
